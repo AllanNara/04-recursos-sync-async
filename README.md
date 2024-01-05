@@ -1,3 +1,5 @@
+# Recursos para clase Manejo de Archivos (Programacion Backend)
+
 ------------------------------------------------------------------------------------------------------------------
 Para probar cada uno de los archivos en las carpetas LEGACY/PROMESAS, ejecutar en la consola 'node <archivo_a_ejecutar>, por ejemplo: node PROMESAS/promises-async-await.js
 Todos los scripts realizan la misma funcion, pero utilizando distintos metodos vistos en clases que se resumiran a continuacion
